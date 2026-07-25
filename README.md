@@ -1,7 +1,7 @@
 # 🖥️ ScreenWatch — Monitor de Tela & Auto-Refresh em Tempo Real
 
 <p align="center">
-  <img src="https://chromewebstore.google.com/detail/ebojgghhmomkpinadbbfeophikhaikld" alt="Screen Monitor_icon128x128.png" width="120" />
+  <img src="https://chromewebstore.google.com/detail/ebojgghhmomkpinadbbfeophikhaikld" alt="<img width="128" height="128" alt="Screen Monitor_icon128x128" src="https://github.com/user-attachments/assets/ace3838b-cdb7-459f-be68-424c94a77d01" />" width="120" />
 </p>
 
 <p align="center">
